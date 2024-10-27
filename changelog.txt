@@ -1,0 +1,52 @@
+= 1.0.1 - 29 May 2023 =
+* Fix: Some minor issues
+
+= 1.0.2 - 11 July 2023 =
+* Fix: Some minor issues
+
+= 1.0.3 - 13 July 2023 =
+* update: logo
+* Fix: some css issuess
+
+= 1.0.4 - 22 July 2023 =
+* Fix: Prompt issuess
+
+= 1.0.5 - 29 July 2023 =
+* Fix: regenerate function has been added
+* Fix: prompts fixed for good content can be generated
+
+= 1.0.6 - 30 July 2023 =
+* Fix: kadence theme compatibility issues
+
+= 1.0.7 - 10 Augest 2023 =
+* Update: support for WordPress 6.3
+
+= 1.0.8 - 10 Augest 2023 =
+* Fix: Gutenberg block issues
+
+= 1.1.0 - 11 Novembar 2023 =
+* Update: Gutenberg prompt search.
+* Update: Update open ai model.
+* Fix: Compitibility issue with pro version.
+
+= 1.2.0 - 30 January 2024 =
+* fix: deprecated gpt ai models
+
+= 1.2.1 - 10 February 2024 =
+* fix: deprecated models remove
+* Add: DALL·E 3 Modal
+
+= 1.2.2 - 11 February 2024 =
+* fix: Some minor issues
+
+= 1.2.3 - 13 February 2024 =
+Fix: Resolved issues with custom field insertion in prompts.
+
+= 1.2.4 - 07 March 2024 =
+Update: Update Appsero SDK
+
+= 1.2.5 - 30 March 2024 =
+Fix: Bulk Post Generation: Automated Image Enhancement
+
+1.2.6 - 03 June 2024
+Added: integrated SureCart plugin support
